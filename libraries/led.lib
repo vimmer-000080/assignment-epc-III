@@ -1,0 +1,1 @@
+.model LED D (IS=1e-14 N=1.7 RS=5m)
